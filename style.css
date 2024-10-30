@@ -49,8 +49,9 @@ body {
     margin: 5rem;
   }
   span{
-    font-weight: yellow;
-    color: var(--secundary-color);
+    font-weight: bold;
+    color: white;
+    background-color: var(--secundary-color)
 }
   footer {
     display: flex;
