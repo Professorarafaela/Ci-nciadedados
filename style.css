@@ -49,7 +49,7 @@ body {
     margin: 5rem;
   }
   span{
-    font-weight: bold;
+    font-weight: yellow;
     color: var(--secundary-color);
 }
   footer {
